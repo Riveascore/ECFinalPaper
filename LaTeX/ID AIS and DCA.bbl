@@ -1,0 +1,77 @@
+\begin{thebibliography}{10}
+
+\bibitem{DMZ:2005}
+Solutionbase: Strengthen network defenses by using a {DMZ}.
+\newblock \url{http://tinyurl.com/cu8ruu6}, June 2005.
+
+\bibitem{NIDSandHIDS:2005}
+I.~Basicevic, M.~Popovic, and V.~Kovacevic.
+\newblock The use of distributed network-based {IDS} systems in detection of
+  evasion attacks.
+\newblock In {\em Telecommunications, 2005. Advanced industrial conference on
+  telecommunications/service assurance with partial and intermittent resources
+  conference/e-learning on telecommunications workshop. aict/sapir/elete 2005.
+  proceedings}, pages 78--82, 2005.
+
+\bibitem{IDSoverview:2011}
+B.~M. Beigh and M.~Peer.
+\newblock Intrusion detection and prevention system classification and quick
+  review.
+\newblock {\em ARPN Journal of Science and Technology}, 2(7):661--675, 2011.
+
+\bibitem{evalAIS:2005}
+S.~M. Garrett.
+\newblock How do we evaluate artificial immune systems?
+\newblock {\em Evol. Comput.}, 13(2):145--177, June 2005.
+
+\bibitem{greensmith_thesis:2007}
+J.~Greensmith.
+\newblock {\em The dendritic cell algorithm}.
+\newblock PhD thesis, University of Nottingham, 2007.
+
+\bibitem{guSeg:2011}
+F.~Gu.
+\newblock {\em Theoretical and Empirical Extensions of the Dendritic Cell
+  Algorithm}.
+\newblock PhD thesis, University of Nottingham, 2011.
+
+\bibitem{DCA_Segmentation:2009}
+F.~Gu, J.~Greensmith, and U.~Aickelin.
+\newblock Integrating real-time analysis with the dendritic cell algorithm
+  through segmentation.
+\newblock In {\em Proceedings of the 11th Annual conference on Genetic and
+  evolutionary computation}, GECCO '09, pages 1203--1210, New York, NY, USA,
+  2009. ACM.
+
+\bibitem{revisitingNSA:2007}
+Z.~Ji and D.~Dasgupta.
+\newblock Revisiting negative selection algorithms.
+\newblock {\em Evol. Comput.}, 15(2):223--251, June 2007.
+
+\bibitem{anomalyReview:2011}
+V.~Jyothsna and R.~Prasad.
+\newblock A review of anomaly based intrusion detection systems.
+\newblock {\em International Journal of Computer Applications}, 28(7), 2011.
+
+\bibitem{IDSimmune:2010}
+V.~D. Kotov and V.~Vasilyev.
+\newblock Immune model based approach for network intrusion detection.
+\newblock In {\em Proceedings of the 3rd international conference on Security
+  of information and networks}, SIN '10, pages 233--237, New York, NY, USA,
+  2010. ACM.
+
+\bibitem{AISoverview:2012}
+S.~A. Mohamed~Elsayed, R.~A. Ammar, and S.~Rajasekaran.
+\newblock Artificial immune systems: Models, applications, and challenges.
+\newblock In {\em Proceedings of the 27th Annual ACM Symposium on Applied
+  Computing}, SAC '12, pages 256--258, New York, NY, USA, 2012. ACM.
+
+\bibitem{signalCalculationImprovements:2008}
+R.~Oates, G.~Kendall, and J.~M. Garibaldi.
+\newblock The limitations of frequency analysis for dendritic cell population
+  modelling.
+\newblock In {\em Proceedings of the 7th international conference on Artificial
+  Immune Systems}, ICARIS '08, pages 328--339, Berlin, Heidelberg, 2008.
+  Springer-Verlag.
+
+\end{thebibliography}

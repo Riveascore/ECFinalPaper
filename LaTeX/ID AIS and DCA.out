@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Intrusion Detection Systems}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Overview and Goals}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{What Needs Protection?}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Host-Based}{subsection.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Detection Approach}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Signature-based}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Anomoly-Based}{subsection.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Systems' Reaction to Intrusions}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Artificial Immune Systems for Intrusion Detection}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Overview of Artificial Immune Systems}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Negative Selection Algorithm}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Paradigm shifts in AIS}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Dendritic Cell Algorithm}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Overview}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Input Signals}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Signal Processing and Output Signals}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.4}{Determining an antigen's anomaly coefficient}{section.4}% 18
+\BOOKMARK [1][-]{section.5}{DCA Applied to Port Scan}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{Overview}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.2}{Experimental Setup}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.3}{Libtissue}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.4}{Collecting Data}{section.5}% 23
+\BOOKMARK [1][-]{section.6}{Segmentation Applied to DCA}{}% 24
+\BOOKMARK [2][-]{subsection.6.1}{Experiment}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.2}{Time-based}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.3}{Antigen-based}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.4}{Statistical Tests}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.5}{Results and Future Work}{section.6}% 29
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 30
+\BOOKMARK [1][-]{section.8}{Acknowledgements}{}% 31
+\BOOKMARK [1][-]{section.9}{References}{}% 32
