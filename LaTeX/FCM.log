@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.11)  10 MAY 2013 17:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.11)  10 MAY 2013 20:16
 entering extended mode
  %&-line parsing enabled.
 **FCM.tex
@@ -305,28 +305,49 @@ Underfull \hbox (badness 5316) in paragraph at lines 19--19
 []\crnotice This work is li-censed un-der the Cre-ative Com-mons Attribution-
  []
 
-(./FCM.bbl) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Overfull \hbox (16.12318pt too wide) in paragraph at lines 33--33
+[]\secfnt LEARNING OF FUZZY COG-NI-TIVE MAPS 
+ []
+
+<images/population.png, id=1, 1659.19875pt x 828.09375pt>
+File: images/population.png Graphic file (type png)
+
+<use images/population.png>
+Overfull \hbox (8.86908pt too wide) in paragraph at lines 38--40
+[][]
+ []
 
 
+Underfull \vbox (badness 4531) has occurred while \output is active []
 
-] (./FCM.aux) ) 
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./images/population.png (PNG copy)>] (./FCM.bbl) [2] (./FCM.aux) ) 
 Here is how much of TeX's memory you used:
- 2736 strings out of 495061
- 32368 string characters out of 1182620
- 87654 words of memory out of 3000000
- 5873 multiletter control sequences out of 15000+50000
- 45245 words of font info for 59 fonts, out of 3000000 for 9000
+ 2757 strings out of 495061
+ 32612 string characters out of 1182620
+ 91704 words of memory out of 3000000
+ 5885 multiletter control sequences out of 15000+50000
+ 48393 words of font info for 65 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 39i,10n,26p,238b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/shar
-e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texli
-ve/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-texlive/fonts/typ
-e1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/u
-hvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/shar
-e/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb>
-Output written on FCM.pdf (1 page, 82686 bytes).
+ 39i,10n,26p,1038b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share
+/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cmextra/cmex9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmti9.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic
+/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr
+/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive
+/fonts/type1/urw/times/utmr8a.pfb>
+Output written on FCM.pdf (2 pages, 206170 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
