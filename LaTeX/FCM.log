@@ -1,34 +1,39 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.11)  10 MAY 2013 21:51
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.8.21)  10 MAY 2013 23:03
 entering extended mode
  %&-line parsing enabled.
 **FCM.tex
 (./FCM.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
-(./umm-senior-sem.cls (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(./umm-senior-sem.cls (/usr/share/texmf/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+(/usr/share/texmf/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/etc/texmf/tex/latex/config/graphics.cfg
-File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 90.
 
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
 \Gread@gobject=\count79
 ))
 \Gin@req@height=\dimen102
@@ -37,35 +42,35 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 \epsfxsize=\dimen104
 \epsfysize=\dimen105
 )
-(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
 
-(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
 ))
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip41
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen106
 ))
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count80
@@ -106,17 +111,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
-Package: geometry 2008/12/21 v4.2 Page Geometry
-
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
-)
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
-Package ifvtex Info: VTeX not detected.
-)
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
 \Gm@cnth=\count92
 \Gm@cntv=\count93
 \c@Gm@tempcnt=\count94
@@ -125,7 +121,8 @@ Package ifvtex Info: VTeX not detected.
 \Gm@odd@mp=\dimen117
 \Gm@even@mp=\dimen118
 \Gm@dimlist=\toks21
-)
+
+(/usr/share/texmf/tex/xelatex/xetexconfig/geometry.cfg))
 Document Class 'sig-alternate' <22nd. April '09>. Modified by G.K.M. Tobin/Gerr
 y Murray
 Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
@@ -160,7 +157,7 @@ LaTeX Warning: You have requested document class `umm-senior-sem',
 
 Document Class: sig-alternate 2009/04/22 - V2.4 - based on acmproc.cls V1.3 <No
 v. 30 '99>
-(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty
+(/usr/share/texmf/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
@@ -192,26 +189,26 @@ LaTeX Info: Redefining \cite on input line 1214.
 \acmcopyr=\toks34
 \boilerplate=\toks35
 \copyrightetc=\toks36
-(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+(/usr/share/texmf/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 
-(/usr/share/texmf-texlive/tex/latex/ae/t1aer.fd
+(/usr/share/texmf/tex/latex/ae/t1aer.fd
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
-LaTeX Info: Redefining \cite on input line 285.
-LaTeX Info: Redefining \nocite on input line 356.
-Package: cite 2009/08/29  v 5.2
+(/usr/share/texmf/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 149.
+LaTeX Info: Redefining \nocite on input line 214.
+Package: cite 2003/11/04  v 4.01
 )
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 ) (./FCM.aux)
 \openout1 = `FCM.aux'.
 
@@ -228,21 +225,18 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen127
 \scratchbox=\box30
 \nofMPsegments=\count113
 \nofMParguments=\count114
-\everyMPshowfont=\toks37
 \MPscratchCnt=\count115
 \MPscratchDim=\dimen128
 \MPnumerator=\count116
-\everyMPtoPDFconversion=\toks38
+\everyMPtoPDFconversion=\toks37
 )
-*geometry auto-detecting driver*
-*geometry detected driver: pdftex*
 -------------------- Geometry parameters
 paper: letterpaper
 landscape: --
@@ -283,17 +277,17 @@ driver: pdftex
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
 LaTeX Font Info:    Try loading font information for U+msa on input line 19.
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+ (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 19.
 
-(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
+(/usr/share/texmf/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Overfull \hbox (10.79999pt too wide) in paragraph at lines 19--19
@@ -305,52 +299,48 @@ Underfull \hbox (badness 5316) in paragraph at lines 19--19
 []\crnotice This work is li-censed un-der the Cre-ative Com-mons Attribution-
  []
 
-
-Overfull \hbox (16.12318pt too wide) in paragraph at lines 33--33
-[]\secfnt LEARNING OF FUZZY COG-NI-TIVE MAPS 
- []
-
 <images/population.png, id=1, 1659.19875pt x 828.09375pt>
 File: images/population.png Graphic file (type png)
 
-<use images/population.png> [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
-p}
+<use images/population.png>
+Overfull \hbox (16.12318pt too wide) in paragraph at lines 39--39
+[]\secfnt LEARNING OF FUZZY COG-NI-TIVE MAPS 
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./images/population.png (PNG copy)>]
-<images/antPath.pdf, id=16, 253.40742pt x 139.04059pt>
+ <./images/population.png (PNG copy)>] <images/antPath.pdf, id=16, 253.40742pt 
+x 139.04059pt>
 File: images/antPath.pdf Graphic file (type pdf)
 
 <use images/antPath.pdf>
-Overfull \hbox (13.4068pt too wide) in paragraph at lines 70--71
+Overfull \hbox (13.4068pt too wide) in paragraph at lines 71--72
 [][] 
  []
 
 [2 <./images/antPath.pdf>] (./FCM.bbl) [3] (./FCM.aux) ) 
 Here is how much of TeX's memory you used:
- 2766 strings out of 495061
- 32769 string characters out of 1182620
- 94742 words of memory out of 3000000
- 5893 multiletter control sequences out of 15000+50000
- 48393 words of font info for 65 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
- 39i,10n,26p,1053b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texli
-ve/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/ams
-fonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextr
-a/cmex9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/
-public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
-nts/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti9
-.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/
-texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fon
-ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/u
-tmr8a.pfb>
-Output written on FCM.pdf (3 pages, 564579 bytes).
+ 2642 strings out of 256216
+ 30653 string characters out of 1917072
+ 87873 words of memory out of 1500000
+ 5882 multiletter control sequences out of 10000+200000
+ 48402 words of font info for 65 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 39i,10n,26p,1035b,252s stack positions out of 5000i,500n,6000p,200000b,15000s
+{/usr/share/texmf/fonts
+/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmbx9.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmmi9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share
+/texmf/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm
+/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy9.pfb></usr/share/texmf
+/fonts/type1/bluesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/public/cmex/fme
+x9.pfb></usr/share/texmf/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf/
+fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf/fonts/type1/urw/times/utm
+b8a.pfb></usr/share/texmf/fonts/type1/urw/times/utmr8a.pfb>
+Output written on FCM.pdf (3 pages, 512486 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
+ 519 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
